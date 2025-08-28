@@ -1,3 +1,52 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm / IDE settings
+.idea/
+*.iml
+
+# Logs and debug
+*.log
+*.pot
+*.pyc
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Zip & archive files
+*.zip
+*.tar.gz
+*.rar
+
+# VSCode settings (if any)
+.vscode/
+
+# Local config
+*.cfg
+*.ini
+
